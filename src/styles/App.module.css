@@ -1,0 +1,36 @@
+@import url(./Fonts.css);
+.container {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    transition: all 1s;
+    font-family: "Harry";
+  }
+  
+  .houseSelected {
+    margin-top: 20px;
+  }
+  
+  .gryffindor {
+    background-color: #7f0909;
+    color: #f2b21d;
+  }
+  
+  .slytherin {
+    background-color: #1a472a;
+    color: #aaaaaa;
+  }
+  
+  .ravenclaw {
+    background-color: #0e1a40;
+    color: #946b2d;
+  }
+  
+  .hufflepuff {
+    background-color: #ecb939;
+    color: #372e29;
+  }
+  

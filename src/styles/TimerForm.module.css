@@ -1,0 +1,24 @@
+/* TimerForm.module.css */
+.form {
+    text-align: center;
+  }
+  
+  .inputGroup {
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    margin-right: 10px;
+  }
+  
+  .input {
+    width: 50px;
+    text-align: center;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 22px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,16 @@
+/* Timer.module.css */
+.timer {
+    text-align: center;
+  }
+  
+  .timeDisplay {
+    font-size: 100px;
+  }
+  
+  .button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 22px;
+    cursor: pointer;
+  }
+  
